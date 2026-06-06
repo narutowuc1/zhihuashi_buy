@@ -1,0 +1,18 @@
+{
+  "productUrl": "https://item.jd.com/100001113677.html",
+  "quantity": 1,
+  "targetTails": [
+    "000",
+    "001",
+    "002",
+    "003",
+    "004"
+  ],
+  "tailLength": 3,
+  "paymentPassword": "260530",
+  "payTime": "22:41:00",
+  "orderId": "3521428001427949",
+  "retryIntervalMs": 2000,
+  "maxRetries": 100,
+  "userDataDir": "./chrome-data"
+}

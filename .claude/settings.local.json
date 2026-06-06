@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(npx playwright *)",
+      "Bash(tasklist)",
+      "Bash(wmic process *)",
+      "Bash(node main.js)",
+      "Bash(taskkill /F /IM chrome.exe)",
+      "Bash(cmd.exe /c \"taskkill /F /IM chrome.exe\")",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "Bash(node debug.js)",
+      "Bash(powershell.exe *)",
+      "Bash(node cancel.js 3521428011084726)",
+      "Bash(node pre-order.js)",
+      "Bash(node -e ' *)",
+      "Bash(node test-cancel-delete.js)",
+      "Bash(node pay.js)",
+      "Bash(node debug-pay.js)",
+      "Bash(node *)",
+      "PowerShell(Get-Process *)",
+      "Bash(gh auth *)",
+      "Bash(git *)"
+    ]
+  }
+}

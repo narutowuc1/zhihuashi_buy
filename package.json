@@ -1,0 +1,19 @@
+{
+  "name": "jdbuy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "pre-order": "node pre-order.js",
+    "pay": "node pay.js",
+    "cancel": "node cancel.js",
+    "login": "node login.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}
